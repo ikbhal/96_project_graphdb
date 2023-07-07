@@ -1,0 +1,18 @@
+
+
+why?
+ i like graph database
+ ex: i want to remember people , how i met them, where i met hem, who refere them, when i met them, 
+ what i like about them, what is common , what they good at 
+
+how it related to ?
+ easy to remember might be , because multiple point to remember it , multiple paths 
+
+improve 
+ fetch easy way, fast way, small variation of spelling, by multiple ways paths
+
+
+
+https://github.com/ikbhal/96_project_graphdb
+
+TinyGraphs: TinyGraphs is a small, embeddable graph database written in Java. It provides a simple graph API with basic graph operations and can be integrated into Java applications. It has a small memory footprint and is suitable for small-scale graph data needs.
